@@ -390,3 +390,11 @@ metafile = true
 file = "resourcepacks/unity.pw.toml"
 hash = "69e82afeb9a001deeec9d170197269429ca9b028eb57c7c1e254061c493e5e20"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Body Camera Shader - V1.0.1.zip"
+hash = "8c6b75e37e71a5427e92e046287d1efa172e5c4e0c0a9efe210de871da9c1940"
+
+[[files]]
+file = "shaderpacks/Body Camera Shader - V1.0.1.zip.txt"
+hash = "2cd2e2146e0fd81c20e3b0b4230f2b9bcb25b248117be14bd1374aabce4a6258"
