@@ -1,6 +1,138 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MineTraps.cfg"
+hash = "5be6b59181d56cea73c58abf1d708741d3746969f477cc73899b791925c581f5"
+
+[[files]]
+file = "config/ZombieAwareness/ClientConfig.cfg"
+hash = "936492368c38bdc2cfb2c4dfc612af078fd22b003f631d854eab7f009dccf5f9"
+
+[[files]]
+file = "config/ZombieAwareness/Features.cfg"
+hash = "eb9bc4fac70800cc0d20f8398ac5978931cb69c637985796b6eab3253488a818"
+
+[[files]]
+file = "config/ZombieAwareness/General.cfg"
+hash = "73c82108ab26c98fc611e39045d1bebec7fdadb1616adf0ca0b40156560e821e"
+
+[[files]]
+file = "config/ZombieAwareness/MobLists.cfg"
+hash = "60150686d1b4e80bb185e5d9483f2830fc2657bf3ce22d8b3f828114fbc423a0"
+
+[[files]]
+file = "config/ZombieAwareness/PlayerRulesAndLists.cfg"
+hash = "6028b78d0329ec82203ab145807f755d52e47a26212f760a06cfe8921082461c"
+
+[[files]]
+file = "config/ZombieAwareness/Spawning.cfg"
+hash = "a0182c114bd5361a8121480496d73028d56c0ac7ca4f5a122a961ccadf559fed"
+
+[[files]]
+file = "config/badmobs.cfg"
+hash = "2fbb4c2ac20d602a40fbbfd8b040ba52a1524eed5e3dca465b840122b5d7591a"
+
+[[files]]
+file = "config/bloodmoon.cfg"
+hash = "a269da2374be50043ec3ebc3032443c7a82a7ea2f9499edcbec75b1cbc3d34b2"
+
+[[files]]
+file = "config/gravestone.cfg"
+hash = "62956483add2ecac20614e1ac1b43fb0d2f68098bde6f69473af981701d422ae"
+
+[[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "9fb9b15b542a7b013ab2ee21cfe39f5d4ac70d72e26e9458c68ac073f1e3368e"
+
+[[files]]
+file = "config/jei/jei.cfg"
+hash = "640a1db69534691f4a10e99a95b8f91f0c453be18b9db7e39a1eab40405417ad"
+
+[[files]]
+file = "config/jei/searchColors.cfg"
+hash = "aa2d125660ad731dff9aec92c745a6947e204dba56ecc95d6907f1883d26ec33"
+
+[[files]]
+file = "config/jei/worldSettings.cfg"
+hash = "dce9c7bdcd89f1770283732b48f9e53a1de43fb5f077afda2ade96e77fda8262"
+
+[[files]]
+file = "config/mobsunscreen.cfg"
+hash = "c06bb0b90c3471a0aa6e473f3454044f2f55402154c4c5fef0beb145b78d4b34"
+
+[[files]]
+file = "config/quark.cfg"
+hash = "b65afef5523218bc888a95d183b8c87275b7d724a88bff04b7448970cba891aa"
+
+[[files]]
+file = "config/securitycraft.cfg"
+hash = "35db9948c3566c1ff8cacce3f075d607b64fbc4b88cdca869eab50d76e450bbc"
+
+[[files]]
+file = "config/spartanshields.cfg"
+hash = "959b460e12bcc5e0c66f688ac4d52caec75168dfdaff6a68f6f8b742719af374"
+
+[[files]]
+file = "config/spartanweaponry.cfg"
+hash = "8201e01c8fdb4a243b5c029581397830a8c6017e1d188f3db656bee1a7fe75be"
+
+[[files]]
+file = "config/srparasites/SRParasites.cfg"
+hash = "082fc016ff6fe03214fcd4e94f01125600f28d7838c60643b28d494080f36016"
+
+[[files]]
+file = "config/srparasites/SRParasitesMobs.cfg"
+hash = "817f5f3609875df53d010dcbb84ba77071df54a5cd02cb220c56390fbe242ad8"
+
+[[files]]
+file = "config/srparasites/SRParasitesSystems.cfg"
+hash = "9d19b6fc1a05106485f88277e0eed03450062506c18795fe96f62c3adfe6ae91"
+
+[[files]]
+file = "config/srparasites/SRParasitesWorld.cfg"
+hash = "42465d588f1c94761c8d21c4baaa9022ca7b30d2b4c783e0de55ea1d26339c7d"
+
+[[files]]
+file = "config/swparasites.cfg"
+hash = "37e9cbfe7dfc3ccaf0c3d3d219535e8c96f12774bb25fab6b115d3a97f25b771"
+
+[[files]]
+file = "config/treeharvester.cfg"
+hash = "bf992e8ad59cc3f54b19c1c6d38011eac52d08f53735cb0698be9964e3fef9b2"
+
+[[files]]
+file = "config/waila/theme/dark.json"
+hash = "cd2696aae34e17993d6eb737f7a1bc74d949058463bc304ae0ded14c5cac9f19"
+
+[[files]]
+file = "config/waila/theme/vanilla.json"
+hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
+
+[[files]]
+file = "config/waila/waila.cfg"
+hash = "721e70c92f95a3a3cccc4175fdc258d9d0401ba6b0c0b3b2e97ab999a84c4c7c"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "12d59cbd75c19a2bfb7f837f161f762e6136e834b07d3c3c5bba806a66e34bc2"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "31ed7048872b102a7f9b5670fb15f94ec9fc48d0f17cda2a63c2803610853e74"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "78b689f4e20d0d3c3f66b0126652f2c120622bfebf1ce197af2b7981045664b7"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "d1f01c1b88e9f0273da1a90cd0c5d0ff62c2313b7ef4c901993aa8cafa84e5d6"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "b2162f93a7206fadb36e9470372f3d6fec2287919c980a3351cb689614b8f311"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b21ce4112e1f9581a2545c85d0d96fef04751906d8fa98dbb04035d777ba4516"
 metafile = true
