@@ -1,0 +1,13 @@
+name = "XaeroPlus"
+filename = "XaeroPlus-Forge-1.12.2-161-WM1.38.8-MM24.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7942711e5015f078e566ad18530f07e94a070bc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5396205
+project-id = 866084

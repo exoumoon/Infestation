@@ -16,7 +16,7 @@ restart:
 
 # Remove any exported packs.
 clean:
-    rm -f *.mrpack
+    rm -f *.mrpack *.zip
 
 # Export the modpack in `.mrpack` format.
 export: refresh
