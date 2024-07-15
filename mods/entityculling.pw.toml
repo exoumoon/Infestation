@@ -1,0 +1,13 @@
+name = "Entity Culling"
+filename = "entityculling-1.12.2-1.6.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/knltv3Vh/entityculling-1.12.2-1.6.3.jar"
+hash-format = "sha1"
+hash = "fb22f03b297ca7b1bb7c6d5948e46c12e0a24446"
+
+[update]
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "knltv3Vh"

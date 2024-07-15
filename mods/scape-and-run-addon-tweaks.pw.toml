@@ -1,0 +1,13 @@
+name = "Scape and Run: Parasites NoCube's Addon Tweaks"
+filename = "nocubesrptweaks-V4.1hf4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f97898d59abf321dfd45842aacd528c809ef51d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5211838
+project-id = 904677

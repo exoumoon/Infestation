@@ -1,6 +1,240 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "b21ce4112e1f9581a2545c85d0d96fef04751906d8fa98dbb04035d777ba4516"
+metafile = true
+
+[[files]]
+file = "mods/OptiFine_1.12.2_HD_U_G5.jar"
+hash = "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "b88a88ada39f46c4f2f8cf947e6d02bcb7e1d13ec65d2ae342a64a4f9898bd35"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "2b21defe55c00e45d68f58812614a342d8a890677ea201d7daa5ecc6b6deb72d"
+metafile = true
+
+[[files]]
+file = "mods/bad-mobs.pw.toml"
+hash = "bed736c3159c30b9809fcc9e6a0732e7d5bdadad1704a68cd19a1150eca89e3c"
+metafile = true
+
+[[files]]
+file = "mods/bloodmoon.pw.toml"
+hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ce3ccc01e05da4b0ef363aaa4f49fbde20b568b9ab5d667c3bb66b9619c4d5ed"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "4898ca84a5742f1e99ba9774c64e739323c21dad5e750961613000986317b4fe"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "239b3da4a13cdba884a500205728e786f9952d928f405c9ad128f30f55106d22"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "883ba8032db25b483d8a908db8b584af27623897c6b23df5062cb35298e6f884"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "89e83ab7b9a0bf5de988cd7ee9448e64fb9682e80cb1d514c05783f7ec47ff91"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
+metafile = true
+
+[[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "c4aaceb54aa0ede411afb55d8821741b64a240551d227c4aa6be1907471e8a1c"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b5e00cb8cf4446d1213033b769343b60be1cb328c0dfbe0282f34c12a3f2ed96"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "157f6e6aa64ae6cf9da95be6b45dc54bf35c4e89e1c9f78866b1dc1821063b47"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
+metafile = true
+
+[[files]]
+file = "mods/iron-backpacks.pw.toml"
+hash = "7ac16b8d705170e86b2f4a1216afe9f124bb859121f24d4e28f6d77c4b6dcf3f"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "b947ee2ed66177ece6897c549a5f525b94d20f16b354d9539d8d13f0fd480b10"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "839fb48d8e9a49583622859ace3d1b757d88b9d5c0b2f9c20f31eef8445efa1b"
+metafile = true
+
+[[files]]
+file = "mods/jei-integration.pw.toml"
+hash = "c22915e1e0104cc0b2298fa3b1edb6b6c512a3e464bdc96c3053192550c00612"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "7d15bd3065dfd074bdd3beffe17fe3c64e1a48c65402b243c2846b895766273c"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
+metafile = true
+
+[[files]]
+file = "mods/minetraps.pw.toml"
+hash = "95a18e0242d53129a32c3f1ea277a9791ff1a7c846ac8e7dd7840011fdd527e9"
+metafile = true
+
+[[files]]
+file = "mods/mixinbooter.pw.toml"
+hash = "622537a24372ed1329b300b9cab2aeb3052ef5b9526fc786dbc55fa248062a93"
+metafile = true
+
+[[files]]
+file = "mods/mo-bends.pw.toml"
+hash = "32917e74e44ed692074f7e6b88041ad9c6fc439e5d1f3a592d43061a5ebd20c7"
+metafile = true
+
+[[files]]
+file = "mods/mob-dismemberment.pw.toml"
+hash = "0e9f470f078982e136269d489fd78d74d4329f662b1f62af5718a0fe50f10b19"
+metafile = true
+
+[[files]]
+file = "mods/mob-sunscreen.pw.toml"
+hash = "916bbd27f0bd909c5898566d153bc96a457ffcad1fb96a71105fde894d4bc8f4"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+metafile = true
+
+[[files]]
+file = "mods/no-baby-zombies.pw.toml"
+hash = "40cc2fead976fa9c42f601d159372366e6b2e8613a8ddff8f42f84e9d0fbeee2"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "d4f62de4381221575e13c1826de2a3b8752daf5282e8fe24f1b6e651aa7e24a0"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-addon-tweaks.pw.toml"
+hash = "46e40e00992aaaa8cc02742bcf1a7d03e619a2824da4b6e4dc38996b4b2d4627"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites-addon-by-nocube.pw.toml"
+hash = "b3d0c5b7dc47712de8c733ae257395c59461e0ff86f8d3ec147efe4fb46e607a"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites-nests-addon-by-nocube.pw.toml"
+hash = "1acac52594b1a4359ea1bd8c975cdd38f72eed038164be9ea2718b0dbdcba53b"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites-survival-addon-by-nocube.pw.toml"
+hash = "3a891e94b6636b5603c2080df1465c3ec4b29fa2d70d6385e5fc3fc584b3d138"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites.pw.toml"
+hash = "00f34ddde48f0fe788807b4588418faf2431e6d31d51573aedd359719533890b"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-spartan-parasites.pw.toml"
+hash = "79548f8dba766d7fdad521d890962aa196b7f0514b29a734c7ac5faa0069b422"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "9f24862063b4971bbfad3c478d2ca6c02661154d4009c48153cdc3b56d770fd8"
+metafile = true
+
+[[files]]
+file = "mods/spartan-shields.pw.toml"
+hash = "5a26e0faa9fe26c46891d4beee4bc2ac62354eb4e307d56566ded9c174b1bcd5"
+metafile = true
+
+[[files]]
+file = "mods/swingthroughgrass.pw.toml"
+hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "f69d2abaf92c92361ab342a85406dc8168d1f32265f854c8df3f040560799028"
+metafile = true
+
+[[files]]
+file = "mods/village-spawn-point.pw.toml"
+hash = "6f9b77b54a9543e3f9f433f6bde0f95a7c50b4c3bb0a34293ed2dc747fc6eeb2"
+metafile = true
+
+[[files]]
+file = "mods/villager-names.pw.toml"
+hash = "dd070425681d3969ebf304b92411d0a08dfb00e7fba6d92c7b1a5ece92564656"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "5c1aff6d5c65d07026747cbd6f679091c57477716387ec55b98a4d938b79242c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "65b726aba77ceb3db9281f0316093c7042728f6b61e0ff41f57886bcc287bee4"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/new-hearts.pw.toml"
 hash = "8c17069246172dff80d189bd25f76c1c3ff202964bcc569c0f69b5f82001e277"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Scape and Run: Parasites Combat Addon (by NoCube)"
+filename = "NoCubes_SRP_Combat_Addon_3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c9b8dcca199889719aa9d98705942768783f0af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4051307
+project-id = 514409
