@@ -1,0 +1,13 @@
+name = "Unity: Dark Edition"
+filename = "Unity-1.12.X-Dark-0.6.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc8a42195f990edb18d6865719005d881c3f24fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3006030
+project-id = 350660

@@ -1,2 +1,21 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "resourcepacks/new-hearts.pw.toml"
+hash = "8c17069246172dff80d189bd25f76c1c3ff202964bcc569c0f69b5f82001e277"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
+hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity-dark-edition.pw.toml"
+hash = "0375e4d6da9f6b5be965cfccab00cbf09ab24c644429c85ace13d0d51c5e1fda"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "69e82afeb9a001deeec9d170197269429ca9b028eb57c7c1e254061c493e5e20"
+metafile = true

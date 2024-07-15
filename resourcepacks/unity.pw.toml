@@ -1,0 +1,13 @@
+name = "Unity"
+filename = "Unity-1.6.5-1.12-YABBandaid.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "608d864ac22f63848176c1d8c4bb1053fa9ea185"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2805035
+project-id = 222097
