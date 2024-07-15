@@ -327,6 +327,11 @@ hash = "5a26e0faa9fe26c46891d4beee4bc2ac62354eb4e307d56566ded9c174b1bcd5"
 metafile = true
 
 [[files]]
+file = "mods/spartan-weaponry.pw.toml"
+hash = "3b7b6c25c4e625c673b05145ddb986260d730afbc1b2970f86d19666cc78ccdd"
+metafile = true
+
+[[files]]
 file = "mods/swingthroughgrass.pw.toml"
 hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
 metafile = true
