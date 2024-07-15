@@ -1,0 +1,38 @@
+services:
+    server:
+        image: itzg/minecraft-server:java17-alpine
+        ports:
+            - "25565:25565"
+        volumes:
+            - ./data:/data
+        environment:
+            EULA: "TRUE"
+            VERSION: "1.12.2"
+            TYPE: "FORGE"
+            FORGE_VERSION: "14.23.5.2859"
+            PACKWIZ_URL: "https://raw.githubusercontent.com/exoumoon/infestation/main/pack.toml"
+
+            MEMORY: "12G"
+            USE_AIKAR_FLAGS: "true"
+            ENABLE_AUTOPAUSE: "true"
+            VIEW_DISTANCE: 16
+
+            MODE: "survival"
+            DIFFICULTY: "hard"
+            MAX_PLAYERS: "4"
+            ALLOW_FLIGHT: "true"
+
+            MOTD: "Adskiy razgon nam pizda"
+            ICON: "https://raw.githubusercontent.com/exoumoon/infestation/main/assets/icon.png"
+
+            ONLINE_MODE: "false"
+            # ENABLE_WHITELIST: "true"
+            # WHITELIST: |
+            #     mxxntype
+            # OPS: |
+            #     mxxntype
+
+            RCON_CMDS_FIRST_CONNECT: |-
+                /whitelist on
+                /whitelist add mxxntype
+                /op mxxntype
