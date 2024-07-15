@@ -222,11 +222,6 @@ hash = "d4f62de4381221575e13c1826de2a3b8752daf5282e8fe24f1b6e651aa7e24a0"
 metafile = true
 
 [[files]]
-file = "mods/rpg-parties.pw.toml"
-hash = "faca25e7cf45e0543d5172b9bfb63e14eb10c19a11b4a6c4997e1b6ef698a1ba"
-metafile = true
-
-[[files]]
 file = "mods/scape-and-run-addon-tweaks.pw.toml"
 hash = "46e40e00992aaaa8cc02742bcf1a7d03e619a2824da4b6e4dc38996b4b2d4627"
 metafile = true
@@ -249,11 +244,6 @@ metafile = true
 [[files]]
 file = "mods/scape-and-run-parasites.pw.toml"
 hash = "00f34ddde48f0fe788807b4588418faf2431e6d31d51573aedd359719533890b"
-metafile = true
-
-[[files]]
-file = "mods/scape-and-spartan-parasites.pw.toml"
-hash = "79548f8dba766d7fdad521d890962aa196b7f0514b29a734c7ac5faa0069b422"
 metafile = true
 
 [[files]]

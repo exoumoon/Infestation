@@ -18,19 +18,15 @@ services:
             VIEW_DISTANCE: 16
 
             MODE: "survival"
-            DIFFICULTY: "hard"
+            DIFFICULTY: "normal"
             MAX_PLAYERS: "4"
             ALLOW_FLIGHT: "true"
 
-            MOTD: "Adskiy razgon nam pizda"
+            MOTD: "No more room in hell (c)"
             ICON: "https://raw.githubusercontent.com/exoumoon/infestation/main/assets/icon.png"
 
+            # WARN: Allow players without a Mojang account to join.
             ONLINE_MODE: "false"
-            # ENABLE_WHITELIST: "true"
-            # WHITELIST: |
-            #     mxxntype
-            # OPS: |
-            #     mxxntype
 
             RCON_CMDS_FIRST_CONNECT: |-
                 /whitelist on
