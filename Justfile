@@ -9,10 +9,13 @@ refresh:
     @git status
 
 # (Re)start the server's container.
-restart:
-    docker compose down
+restart: stop
     docker compose up --detach --build
     docker compose logs --follow
+
+# Stop the server.
+stop:
+    docker compose down
 
 # Remove any exported packs.
 clean:
@@ -21,13 +24,13 @@ clean:
 # Remove the `./data/world` directory, resetting the server's world.
 [no-cd]
 [confirm('Are you sure you with to WIPE OUT THE SERVER WORLD?')]
-reset-world:
+reset-world: stop
     rm -rf ./data/world
 
 # Remove the `./data` directory, resetting the entire server.
 [no-cd]
 [confirm('Are you sure you with to WIPE OUT THE ENTIRE SERVER?')]
-reset-server:
+reset-server: stop
     rm -rf ./data
 
 # Export the modpack in `.mrpack` format.
