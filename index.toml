@@ -18,7 +18,7 @@ hash = "4dc119ce2c403c159c9e66b5be6e31b7e6d4c036cb7b7d7cfdae39ff9166c20d"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "169528dcb6e01cf1f95a261ec7ecb704eb6eb0c935b57f90048c2caf3e54c5d3"
+hash = "b65afef5523218bc888a95d183b8c87275b7d724a88bff04b7448970cba891aa"
 
 [[files]]
 file = "config/securitycraft.cfg"
