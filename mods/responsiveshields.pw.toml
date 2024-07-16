@@ -1,6 +1,6 @@
 name = "Responsive Shields"
 filename = "responsiveshields-2.3-mc1.12.x.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MBmh0f9A/versions/MlMADrFf/responsiveshields-2.3-mc1.12.x.jar"

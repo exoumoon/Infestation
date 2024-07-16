@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/responsiveshields.pw.toml"
-hash = "afada9f844911c96b6a6b899f1c752b0f642915a39e6ab9d45911d3c4695d2e5"
+hash = "bf2047caab55e1b6d5c934d084a70d47f9b4769564fe5a89b3cc2cd3742f734c"
 metafile = true
 
 [[files]]
