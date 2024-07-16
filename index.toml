@@ -252,6 +252,11 @@ hash = "6e33cc780ba01322385fc1fc8ddf7e95c8cca07b9d063c1f363bf3ea59e5eafa"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
+metafile = true
+
+[[files]]
 file = "mods/minetraps.pw.toml"
 hash = "95a18e0242d53129a32c3f1ea277a9791ff1a7c846ac8e7dd7840011fdd527e9"
 metafile = true
@@ -279,11 +284,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
-metafile = true
-
-[[files]]
-file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "6d36d42c202c6ad223bcf09f626eca0bbfed8fba21a8ead594bdb50e5023d209"
 metafile = true
 
 [[files]]
@@ -367,6 +367,16 @@ hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
 metafile = true
 
 [[files]]
+file = "mods/teams.pw.toml"
+hash = "14aa95497a5a25afbf491e748635f77fdd43faeb48a02531c609490902083277"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
+metafile = true
+
+[[files]]
 file = "mods/veinminer.pw.toml"
 hash = "142cd8aa6f26b116fb5d07bd0c26463e90d3591c0fa1d30f35d4b1a8eae2142d"
 metafile = true
@@ -399,6 +409,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "65b726aba77ceb3db9281f0316093c7042728f6b61e0ff41f57886bcc287bee4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/darkmode.pw.toml"
+hash = "f6a1b7a70379ed5f3186aed5dd15d96dc6bb4201c2ef91c77262c5cd74660793"
 metafile = true
 
 [[files]]
