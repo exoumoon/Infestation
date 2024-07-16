@@ -227,6 +227,11 @@ hash = "40cc2fead976fa9c42f601d159372366e6b2e8613a8ddff8f42f84e9d0fbeee2"
 metafile = true
 
 [[files]]
+file = "mods/ore-excavation.pw.toml"
+hash = "a550c1ae3f3e585e4ffe2aa7c39b17e8a1066e65865c1dec9f918191786056d0"
+metafile = true
+
+[[files]]
 file = "mods/orelib.pw.toml"
 hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
 metafile = true
