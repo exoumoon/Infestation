@@ -58,11 +58,15 @@ hash = "12d59cbd75c19a2bfb7f837f161f762e6136e834b07d3c3c5bba806a66e34bc2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "31ed7048872b102a7f9b5670fb15f94ec9fc48d0f17cda2a63c2803610853e74"
+hash = "25e367799340032ba281ed50de74feb37bfb8121b4a2948646e083fed9d0b824"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "78b689f4e20d0d3c3f66b0126652f2c120622bfebf1ce197af2b7981045664b7"
+hash = "82bbf44ea330e938edb6832a2c002cc74b89f2d21a8433aeac5ec7f8df9e7cb0"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -70,7 +74,7 @@ hash = "d1f01c1b88e9f0273da1a90cd0c5d0ff62c2313b7ef4c901993aa8cafa84e5d6"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "b2162f93a7206fadb36e9470372f3d6fec2287919c980a3351cb689614b8f311"
+hash = "2cbefef40d80ab6a2c8e0cd31294a4e0688e9f09f1f177fb9010248c055edbaa"
 
 [[files]]
 file = "mods/OptiFine_1.12.2_HD_U_G5.jar"
