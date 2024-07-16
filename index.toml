@@ -172,6 +172,11 @@ hash = "b5e00cb8cf4446d1213033b769343b60be1cb328c0dfbe0282f34c12a3f2ed96"
 metafile = true
 
 [[files]]
+file = "mods/exp-ore-block-mod.pw.toml"
+hash = "3f26163ac14aec40b744ff7741b0e688b4c22b410f1a645f922d7bba08e6af5f"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "4752a90956923c1bdce1c237e67a6e8f4fd4b3f5a476acecda01a77acf6c01f3"
 metafile = true
@@ -184,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "157f6e6aa64ae6cf9da95be6b45dc54bf35c4e89e1c9f78866b1dc1821063b47"
+metafile = true
+
+[[files]]
+file = "mods/hardcore-revival.pw.toml"
+hash = "8495f0cc7fdf9fda206461954eccc7fca3cda853f5963f092a73fe91289c74c4"
 metafile = true
 
 [[files]]
@@ -289,11 +299,6 @@ metafile = true
 [[files]]
 file = "mods/orelib.pw.toml"
 hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
-metafile = true
-
-[[files]]
-file = "mods/playerrevive.pw.toml"
-hash = "f4f48c5173082fbb0b804204872593248fe433dcb52bab8222610946b839953d"
 metafile = true
 
 [[files]]

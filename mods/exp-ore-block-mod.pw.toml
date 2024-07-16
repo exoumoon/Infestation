@@ -1,0 +1,13 @@
+name = "Exp Ore Mod"
+filename = "ExpOre-1.12.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23c6bc2762f3d5bf482474859810d03e1da3f2ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2849294
+project-id = 315604
