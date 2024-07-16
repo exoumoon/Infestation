@@ -227,11 +227,6 @@ hash = "40cc2fead976fa9c42f601d159372366e6b2e8613a8ddff8f42f84e9d0fbeee2"
 metafile = true
 
 [[files]]
-file = "mods/ore-excavation.pw.toml"
-hash = "a550c1ae3f3e585e4ffe2aa7c39b17e8a1066e65865c1dec9f918191786056d0"
-metafile = true
-
-[[files]]
 file = "mods/orelib.pw.toml"
 hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
 metafile = true
@@ -294,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "f69d2abaf92c92361ab342a85406dc8168d1f32265f854c8df3f040560799028"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "142cd8aa6f26b116fb5d07bd0c26463e90d3591c0fa1d30f35d4b1a8eae2142d"
 metafile = true
 
 [[files]]
