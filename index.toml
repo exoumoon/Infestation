@@ -92,6 +92,11 @@ hash = "bed736c3159c30b9809fcc9e6a0732e7d5bdadad1704a68cd19a1150eca89e3c"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "cceea71e464e6082b933a9742826d12c561e038156a9d519f8ffdbd41d219b1b"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ce3ccc01e05da4b0ef363aaa4f49fbde20b568b9ab5d667c3bb66b9619c4d5ed"
 metafile = true
@@ -129,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-surroundings.pw.toml"
 hash = "2d482b40072462ca65ca75ac3e475137d2c9871bb3fe678484b759b55f0d85cc"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-plus.pw.toml"
+hash = "e32740c9bb77d9828cf82dac7f0b3e3321d3c646a608aa4b8faee49d9bd46ba4"
 metafile = true
 
 [[files]]
@@ -182,6 +192,11 @@ hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
 metafile = true
 
 [[files]]
+file = "mods/loading-progress-bar.pw.toml"
+hash = "6e33cc780ba01322385fc1fc8ddf7e95c8cca07b9d063c1f363bf3ea59e5eafa"
+metafile = true
+
+[[files]]
 file = "mods/minetraps.pw.toml"
 hash = "95a18e0242d53129a32c3f1ea277a9791ff1a7c846ac8e7dd7840011fdd527e9"
 metafile = true
@@ -219,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "d4f62de4381221575e13c1826de2a3b8752daf5282e8fe24f1b6e651aa7e24a0"
+metafile = true
+
+[[files]]
+file = "mods/responsiveshields.pw.toml"
+hash = "afada9f844911c96b6a6b899f1c752b0f642915a39e6ab9d45911d3c4695d2e5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Enchanting Plus"
+filename = "EnchantingPlus-1.12.2-5.0.179.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SXmIbFhs/versions/14k9zxG5/EnchantingPlus-1.12.2-5.0.179.jar"
+hash-format = "sha1"
+hash = "075bd2585f73a83b9105d3e35ae2071c29f0c7c0"
+
+[update]
+[update.modrinth]
+mod-id = "SXmIbFhs"
+version = "14k9zxG5"

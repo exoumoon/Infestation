@@ -1,0 +1,13 @@
+name = "Loading Progress Bar"
+filename = "Loading-Progress-Bar-v1.0-mc[1.8-1.12.2].jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sFvxviAX/versions/oejccYVf/Loading-Progress-Bar-v1.0-mc%5B1.8-1.12.2%5D.jar"
+hash-format = "sha1"
+hash = "7f7b3a776e189dcfdaabf7ed2d5f2d961cc50d27"
+
+[update]
+[update.modrinth]
+mod-id = "sFvxviAX"
+version = "oejccYVf"
