@@ -272,8 +272,18 @@ hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfishs-gun-mod.pw.toml"
+hash = "6d36d42c202c6ad223bcf09f626eca0bbfed8fba21a8ead594bdb50e5023d209"
+metafile = true
+
+[[files]]
 file = "mods/no-baby-zombies.pw.toml"
 hash = "40cc2fead976fa9c42f601d159372366e6b2e8613a8ddff8f42f84e9d0fbeee2"
+metafile = true
+
+[[files]]
+file = "mods/obfuscate.pw.toml"
+hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
 metafile = true
 
 [[files]]
@@ -299,11 +309,6 @@ metafile = true
 [[files]]
 file = "mods/scape-and-run-addon-tweaks.pw.toml"
 hash = "46e40e00992aaaa8cc02742bcf1a7d03e619a2824da4b6e4dc38996b4b2d4627"
-metafile = true
-
-[[files]]
-file = "mods/scape-and-run-hermits-arsenal.pw.toml"
-hash = "370891289a9685c9c0bf00deee5b9aadc9660347b0be18e056bd8381e69c5530"
 metafile = true
 
 [[files]]
