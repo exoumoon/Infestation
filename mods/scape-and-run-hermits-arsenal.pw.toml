@@ -1,0 +1,13 @@
+name = "Scape and Run: Hermit's Arsenal"
+filename = "hermitsarsenal-V1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "837e3c9bafa0abab0404af0dbe80f5ce7e0bb932"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5201667
+project-id = 990586
