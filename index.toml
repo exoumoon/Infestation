@@ -346,11 +346,6 @@ hash = "9f24862063b4971bbfad3c478d2ca6c02661154d4009c48153cdc3b56d770fd8"
 metafile = true
 
 [[files]]
-file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "050526e22b7fc9e5fade47678efcd2e7775fbf00f901e33ba9c17b5ae84da504"
-metafile = true
-
-[[files]]
 file = "mods/spartan-shields.pw.toml"
 hash = "5a26e0faa9fe26c46891d4beee4bc2ac62354eb4e307d56566ded9c174b1bcd5"
 metafile = true
