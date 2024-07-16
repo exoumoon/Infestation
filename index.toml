@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "38c29750aeeb8acd78ae1b5e241aa1a0a62755a12b5f1db27c4439c782b27eee"
+hash = "d4e44129e26078f5eb71d4a3bde56fcf923b43b3c0f2b44a6be64ec98a25a0c9"
 metafile = true
 
 [[files]]
