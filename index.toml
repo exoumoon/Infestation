@@ -371,11 +371,6 @@ hash = "14aa95497a5a25afbf491e748635f77fdd43faeb48a02531c609490902083277"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
-metafile = true
-
-[[files]]
 file = "mods/veinminer.pw.toml"
 hash = "142cd8aa6f26b116fb5d07bd0c26463e90d3591c0fa1d30f35d4b1a8eae2142d"
 metafile = true
