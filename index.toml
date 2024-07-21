@@ -126,11 +126,6 @@ hash = "239b3da4a13cdba884a500205728e786f9952d928f405c9ad128f30f55106d22"
 metafile = true
 
 [[files]]
-file = "mods/comforts.pw.toml"
-hash = "883ba8032db25b483d8a908db8b584af27623897c6b23df5062cb35298e6f884"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "89e83ab7b9a0bf5de988cd7ee9448e64fb9682e80cb1d514c05783f7ec47ff91"
 metafile = true
