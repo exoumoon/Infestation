@@ -346,6 +346,11 @@ hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
 metafile = true
 
 [[files]]
+file = "mods/open-terrain-generator.pw.toml"
+hash = "7a6481d9ce04ff7091e8e54887b1927982e1484cd6f5a183daeed3f932dab8df"
+metafile = true
+
+[[files]]
 file = "mods/orelib.pw.toml"
 hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
 metafile = true
@@ -463,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/waystones2waypoints.pw.toml"
 hash = "1fb81392a2537dbe3b309270b5551df15829a1400b7d2a2891c92a6787bd42e6"
+metafile = true
+
+[[files]]
+file = "mods/wildlands.pw.toml"
+hash = "e49a564963743be9f5c37315f48647bfef5cf2e3a44e6629aa6a0bdebd5b5f90"
 metafile = true
 
 [[files]]
