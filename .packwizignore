@@ -9,4 +9,5 @@ Justfile
 Dockerfile
 docker-compose.yml
 data/
+server/
 assets/
