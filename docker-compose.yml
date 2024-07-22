@@ -10,7 +10,7 @@ services:
             VERSION: "1.12.2"
             TYPE: "FORGE"
             FORGE_VERSION: "14.23.5.2859"
-            PACKWIZ_URL: "https://raw.githubusercontent.com/exoumoon/infestation/main/pack.toml"
+            PACKWIZ_URL: "https://raw.githubusercontent.com/exoumoon/infestation/stable/pack.toml"
 
             MEMORY: "12G"
             USE_AIKAR_FLAGS: "true"
@@ -23,7 +23,7 @@ services:
             ALLOW_FLIGHT: "true"
 
             MOTD: "No more room in hell (c)"
-            ICON: "https://raw.githubusercontent.com/exoumoon/infestation/main/assets/icon.png"
+            ICON: "https://raw.githubusercontent.com/exoumoon/infestation/stable/assets/icon.png"
 
             # WARN: Allow players without a Mojang account to join.
             ONLINE_MODE: "false"
