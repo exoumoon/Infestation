@@ -6,7 +6,15 @@ hash = "de2d48ca3d86bcf1e4561e53dd59ce36887d5047f10dc7404119e6a9fcd3fe14"
 
 [[files]]
 file = "config/badmobs.cfg"
-hash = "5c760316f90799a9aa044a22d450fe226cdd5934797b043f04479e30d2194e33"
+hash = "c7e6e5958d9a60a8153ca7089bd626279f37064be76c94aada073f8c09321888"
+
+[[files]]
+file = "config/forcedresourcepacks.cfg"
+hash = "8ddeca9a95353964221be785b12710b38128a31909c2b35ce85f996bd0535e41"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "4f460a426d0a37ef8af810b908e937f924ee3ee7a71b3e47f5a94ebf48f7dd95"
 
 [[files]]
 file = "config/gravestone.cfg"
@@ -34,11 +42,11 @@ hash = "e0266ada3d2528e3a1b271a15c1acbdc47990603eb9a90ac9d645e73ec2eb894"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
-hash = "082fc016ff6fe03214fcd4e94f01125600f28d7838c60643b28d494080f36016"
+hash = "143580f9e74946c9a241fcbd4f70a17f015a02d7b9b7c37ab2c9863865727eb1"
 
 [[files]]
 file = "config/srparasites/SRParasitesMobs.cfg"
-hash = "817f5f3609875df53d010dcbb84ba77071df54a5cd02cb220c56390fbe242ad8"
+hash = "fbbd4f998f4fe3667dcb03b6899723ccdfb0a730aa1ed523b51be05d6a4d31d2"
 
 [[files]]
 file = "config/srparasites/SRParasitesSystems.cfg"
@@ -51,6 +59,18 @@ hash = "42465d588f1c94761c8d21c4baaa9022ca7b30d2b4c783e0de55ea1d26339c7d"
 [[files]]
 file = "config/swparasites.cfg"
 hash = "37e9cbfe7dfc3ccaf0c3d3d219535e8c96f12774bb25fab6b115d3a97f25b771"
+
+[[files]]
+file = "config/veinminer/general.cfg"
+hash = "d596803b9c3ac4cb725b2d6d7de30ec940b690eb9bdf1d32765ece6f7ecd3c88"
+
+[[files]]
+file = "config/veinminer/modSupport.cfg"
+hash = "172ce3cba7f0006bd56e163c45c83a00b3c9692859aeb61d5e2b95ef4dc04917"
+
+[[files]]
+file = "config/veinminer/tools-and-blocks.json"
+hash = "4a1cc68241dd9ef7bf47b97b4759c14c925e1d93febcbc578c4fc30001b40d45"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -121,6 +141,21 @@ hash = "4898ca84a5742f1e99ba9774c64e739323c21dad5e750961613000986317b4fe"
 metafile = true
 
 [[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "af02d1303bcea63f7db8fe253cd70f74347857fd0b26a58b3961b95bee3b0ffe"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.pw.toml"
+hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "239b3da4a13cdba884a500205728e786f9952d928f405c9ad128f30f55106d22"
 metafile = true
@@ -133,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "468ceb2d2976dd9464670ebb5938ec96c345301e2b9df7cb052c501c61ae2e35"
 metafile = true
 
 [[files]]
@@ -183,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
+metafile = true
+
+[[files]]
+file = "mods/forced-resourcepacks.pw.toml"
+hash = "5b3b04afd0c82a32e27be0a9883c33067fa9e4e95ebdafaf8d5b8353e4b19bea"
 metafile = true
 
 [[files]]
@@ -246,6 +291,11 @@ hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "3f090658eb8521a5abe44bf5413e8da67ae7011c3778570028e4fd38985cf35f"
+metafile = true
+
+[[files]]
 file = "mods/loading-progress-bar.pw.toml"
 hash = "6e33cc780ba01322385fc1fc8ddf7e95c8cca07b9d063c1f363bf3ea59e5eafa"
 metafile = true
@@ -303,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "d4f62de4381221575e13c1826de2a3b8752daf5282e8fe24f1b6e651aa7e24a0"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.pw.toml"
+hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
 metafile = true
 
 [[files]]
@@ -366,6 +421,31 @@ hash = "14aa95497a5a25afbf491e748635f77fdd43faeb48a02531c609490902083277"
 metafile = true
 
 [[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "ffc8cf6d03dd4c77a59d3a58a82cad6cb3c36948540cb0fc1cf424a0f447ab92"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "4379e8df5433332fee2b3c351eaf9d281581cdd3ff4340a4a466e497de8eb41b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "ccedb897162eeffc59668c11a684f66b5d73916b574f9904d7201eba33884904"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "c2f83774a9967453865917241dc982e1aabba10f5aeba4389244e2d77fc2d04d"
+metafile = true
+
+[[files]]
 file = "mods/veinminer.pw.toml"
 hash = "142cd8aa6f26b116fb5d07bd0c26463e90d3591c0fa1d30f35d4b1a8eae2142d"
 metafile = true
@@ -401,13 +481,13 @@ hash = "65b726aba77ceb3db9281f0316093c7042728f6b61e0ff41f57886bcc287bee4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/darkmode.pw.toml"
-hash = "f6a1b7a70379ed5f3186aed5dd15d96dc6bb4201c2ef91c77262c5cd74660793"
+file = "resourcepacks/new-hearts.pw.toml"
+hash = "8c17069246172dff80d189bd25f76c1c3ff202964bcc569c0f69b5f82001e277"
 metafile = true
 
 [[files]]
-file = "resourcepacks/new-hearts.pw.toml"
-hash = "8c17069246172dff80d189bd25f76c1c3ff202964bcc569c0f69b5f82001e277"
+file = "resourcepacks/newdefaultplus.pw.toml"
+hash = "80d88b567a709b02d937408e5b9e26a53ea744b9c41bc9b4a44458916a2f0de8"
 metafile = true
 
 [[files]]

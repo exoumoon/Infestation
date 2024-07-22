@@ -17,6 +17,9 @@ services:
             ENABLE_AUTOPAUSE: "true"
             VIEW_DISTANCE: 12
 
+            LEVEL: "Wildlands"
+            LEVEL_TYPE: "OTG"
+
             MODE: "survival"
             DIFFICULTY: "normal"
             MAX_PLAYERS: "4"

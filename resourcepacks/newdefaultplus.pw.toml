@@ -1,0 +1,13 @@
+name = "New Default+"
+filename = "NewDefault+v1.75[MC1.9-1.12.2].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31b09b4a4dba57263d448c5fd7368bbdb9079e55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5388615
+project-id = 318963
